@@ -17,5 +17,5 @@ The dashboard visually explores 52-Week High/Low, Open & Close Prices, Monthly V
 The goal of this project is to transform raw stock market data into meaningful insights through data cleaning, data transformation, and interactive visualizations.
 
 ## Stock Data Analysis
-- <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix" Stock Data Analysis </a>
+- <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix"> Stock Data Analysis </a>
 

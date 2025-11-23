@@ -9,3 +9,6 @@ Quarter
 Month
 Day
 Provide insights that help understand market behavior and volatility.
+
+## Stock Data Analysis
+- <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix" Stock Data Analysis </a>

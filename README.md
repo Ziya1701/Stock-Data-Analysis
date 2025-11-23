@@ -9,6 +9,13 @@ Quarter
 Month
 Day
 Provide insights that help understand market behavior and volatility.
+## Project Overview
+
+This project focuses on analyzing the stock performance of Adani Enterprises Ltd using an interactive Power BI dashboard.
+The dashboard visually explores 52-Week High/Low, Open & Close Prices, Monthly Volume Trends, and Daily Movement Patterns to provide actionable insights for investors, analysts, and learners.
+
+The goal of this project is to transform raw stock market data into meaningful insights through data cleaning, data transformation, and interactive visualizations.
 
 ## Stock Data Analysis
 - <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix" Stock Data Analysis </a>
+

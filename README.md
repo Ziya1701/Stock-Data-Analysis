@@ -20,6 +20,10 @@ The dashboard visually explores 52-Week High/Low, Open & Close Prices, Monthly V
 
 The goal of this project is to transform raw stock market data into meaningful insights through data cleaning, data transformation, and interactive visualizations.
 
+## Dataset used
+
+<a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Quote-Equity-ADANIENSOL-EQ-21-11-2024-to-21-11-2025.csv"> Data Set</a>
+
 ## Stock Data Analysis
 - <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix"> Stock Data Analysis </a>
 ## Key Insights

@@ -9,6 +9,10 @@ Quarter,
 Month,
 Day
 Provide insights that help understand market behavior and volatility.
+
+## Dashboard 
+<img width="1417" height="789" alt="Screenshot 2025-11-23 141547" src="https://github.com/user-attachments/assets/3450b241-1b1d-4ef2-b2a7-ce899fd99bca" />
+
 ## Project Overview
 
 This project focuses on analyzing the stock performance of Adani Enterprises Ltd using an interactive Power BI dashboard.
@@ -53,9 +57,6 @@ Line chart showing weekly patterns for:
 52W Low
 Open Price
 Close Price
-## Dashboard 
-
-<img width="1417" height="789" alt="Screenshot 2025-11-23 141547" src="https://github.com/user-attachments/assets/416bc9be-fedb-44a7-94af-abba267c4700" />
 
 
 

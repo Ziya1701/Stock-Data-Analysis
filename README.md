@@ -18,4 +18,16 @@ The goal of this project is to transform raw stock market data into meaningful i
 
 ## Stock Data Analysis
 - <a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Stock%20Data%20Analysis.pbix"> Stock Data Analysis </a>
+## Key Insights
+November shows the highest trading volume (~0.13bn).
+Average 52W High = 1.27K, indicating strong stock performance over the year.
+Daily open-close fluctuations indicate moderate volatility throughout the month.
+Volume is highest in November and June, suggesting increased trading interest.
+Weeks like Friday & Wednesday show sharper price drops.
+
+<a href = "https://github.com/Ziya1701/Stock-Data-Analysis/blob/main/Screenshot%202025-11-23%20141547.png"> View Dasboard </a>
+
+
+
+
 
